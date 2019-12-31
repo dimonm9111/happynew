@@ -82,7 +82,7 @@ body {
   height: 0;
   border-left: 15px solid transparent;
   border-right: 15px solid transparent;
-  border-bottom: 25px solid #fcd000;
+  border-bottom: 25px solid 0000ff;
   box-shadow: 1px 19px 20px -7px #1d5022;
 }
 .tree-star::after {
